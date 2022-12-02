@@ -1,5 +1,4 @@
 # Blog-App-Server
-React App Repository - https://github.com/SanjeevSaniel/Blog-App
 
   -- API Links
   
